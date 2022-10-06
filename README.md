@@ -48,7 +48,7 @@ This is a solution to the [QR-code-component](https://github.com/robertshamirian
 
 ### Continued development
 
-I want to build more projects to improve my developer skills
+I will create more projects to show you my developer skills
 
 
 ### Useful resources
